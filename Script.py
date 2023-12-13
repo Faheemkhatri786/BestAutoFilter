@@ -3,7 +3,7 @@ class script(object):
     
 ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ɪɴ <a href=t.me/POPKornTimes>ᴍʏ ɢʀᴏᴜᴘ</a> ᴏʀ ʜᴇʀᴇ ɪ ᴄᴀɴ ɢɪᴠᴇ ᴍᴏᴠɪᴇs ᴀɴᴅ sᴇʀɪᴇs ɪɴ ɢʀᴏᴜᴘ ᴏʀ ᴘᴍ, ᴀɴʏᴡʜᴇʀᴇ !! ❣️
 
-🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - <a href=https://t.me/RenierbBoTz>𝐓ᴇᴀᴍ𝐑ᴇɴɪᴇʀʙ</a></b>"""
+🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - <a href=https://t.me/Faheem21025492006>FAHEEM</a></b>"""
 
     START_TXT = """<b>ʜᴇʏ {} 
     
@@ -14,9 +14,9 @@ class script(object):
     HELP_TXT = """<b>ʜᴇʏ {}
 ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/FiltronAIBot></a>
-🤠 ᴏᴡɴᴇʀ : <a href=https://t.me/itzrenierb>⋆‌⃝»͢𝐌ꝛ፝֟ 𝆺𝅥 ᭄𝗥ᴇɴɪᴇʀ𝗕ঔৣ ⍣⃟ ࿐</a>
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/itzrenierb>Rᴇɴɪᴇʀʙ 🚩</a>
+    ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/smart420bot></a>
+🤠 ᴏᴡɴᴇʀ : <a href=https://t.me/Faheem21025492006>⋆‌⃝»͢𝐌ꝛ፝֟ 𝆺𝅥 ᭄ঔৣFAHEEM ⍣⃟ ࿐</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Faheem21025492006>FAHEEM 🚩</a>
 📚 ʟɪʙʀᴀʀʏ : <a href=https://docs.pyrogram.org/>ᴘʏʀᴏɢʀᴀᴍ</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org/download/releases/3.0/>ᴘʏᴛʜᴏɴ 3</a>
 ♻️ ᴅᴀᴛᴀʙᴀsᴇ : <a href=https://www.mongodb.com/>ᴍᴏɴɢᴏ ᴅʙ</a>
@@ -24,11 +24,11 @@ class script(object):
 🥶 ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ1.0.0 [sᴛᴀʙʟᴇ​]</b>"""
 
     OWNER_INFO = """<b>┏━•❃𓊈𒆜Oᴡɴᴇʀ Dᴇᴛᴀɪʟꜱ𒆜𓊉❃•━┓   
- ◈ ᴛɢ ɴᴀᴍᴇ : 『ᴄᴀʟʟ ᴍᴇ Rᴇɴɪᴇʀʙ..』🚩
- ◈ ɴɪᴄᴋɴᴀᴍᴇ : Rᴇɴɪᴇʀʙ
- ◈ ᴜꜱᴇʀɴᴀᴍᴇ : <a href=https://t.me/itzrenierb>『...Rᴇɴɪᴇʀʙ』</a>🚩
- ◈ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/itzrenierb>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
- ◈ ᴋɴᴏ ᴍᴏʀᴇ ᴀʙᴛ ᴍᴇ :<a href=https://t.me/About_B2DxLeGeNd>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+ ◈ ᴛɢ ɴᴀᴍᴇ : 『ᴄᴀʟʟ ᴍᴇ Faheem ansari..』🚩
+ ◈ ɴɪᴄᴋɴᴀᴍᴇ : Faheem
+ ◈ ᴜꜱᴇʀɴᴀᴍᴇ : <a href=https://t.me/Faheem21025492006>『...Faheem』</a>🚩
+ ◈ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/Faheem21025492006>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+ ◈ ᴋɴᴏ ᴍᴏʀᴇ ᴀʙᴛ ᴍᴇ :<a href=https://t.me/Faheem21025492006>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 ‿︵‿︵‿︵‿୨❤୧‿︵‿︵‿︵‿</b>
 """
      
@@ -66,7 +66,7 @@ class script(object):
 ◆ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :<a href=https://t.me/itzrenierb> ʜᴇʀᴇ </a>
 ◆ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʙᴜʏ ʏᴏᴜʀꜱᴇʟғ ᴛʜᴇ ꜱᴀᴍᴇ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪꜱ ᴏʀ ᴡᴀɴᴛ ɪᴛ'ꜱ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ, ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ..!
 
-◆ ᴅᴇᴠ : <a href=https://t.me/itzrenierb>⋆‌⃝»͢𝐌ꝛ፝֟ 𝆺𝅥 ᭄𝗥ᴇɴɪᴇʀ𝗕ঔৣ ⍣⃟ ࿐</a></b>
+◆ ᴅᴇᴠ : <a href=https://t.me/Faheem21025492006>⋆‌⃝»͢𝐌ꝛ፝֟ 𝆺𝅥 ᭄ঔৣFaheem ⍣⃟ ࿐</a></b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -96,7 +96,7 @@ class script(object):
 
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
 
-<code>[Button Text](buttonurl:https://t.me/RenierbBoTz)</code>
+<code>[Button Text](buttonurl:https://t.me/Faheem21025492006)</code>
 
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 
@@ -179,7 +179,7 @@ class script(object):
 
     PLANSPRICES_TXT = """<b><u>ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴇɴᴛᴇʀ ᴜᴘɪ ɪᴅ & ᴘʟᴀɴ ᴀᴍᴏᴜɴᴛ ᴍᴀɴᴜᴀʟʟʏ, ᴊᴜsᴛ ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ᴘʟᴀɴ ʙᴜᴛᴛᴏɴ & ᴘᴀʏ ᴘʀᴇᴍɪᴜᴍ ғᴇᴇs ᴜsɪɴɢ ᴀɴʏ ᴜᴘɪ ᴀᴘᴘ ɪɴ ᴊᴜsᴛ sᴏᴍᴇ ᴄʟɪᴄᴋs.</u>
 
-ᴜᴘɪ ɪᴅ ➩ <spoil>ᴅᴍ @itzRenierb [ɪғ ʀᴇǫᴜɪʀᴇᴅ]</spoil>
+ᴜᴘɪ ɪᴅ ➩ <spoil>ᴅᴍ faheem786123@paytm [ɪғ ʀᴇǫᴜɪʀᴇᴅ]</spoil>
  
 ‼️ <u>ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ</u> & ᴘʟᴇᴀsᴇ ɢɪᴠᴇ ᴜs sᴏᴍᴇ ᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴛʜᴇ ᴘʀᴇᴍɪᴜᴍ ʟɪsᴛ
 
@@ -187,7 +187,7 @@ class script(object):
 
     EARNPREM_TXT = """<b><u>ɴᴏ ᴍᴏɴᴇʏ ? ɴᴏ ᴡᴏʀʀɪᴇs !!</u>
     
-➥ <u>ʜᴇʀᴇ, ᴏɴ <a href=t.me/MovieZxWorld>ᴍᴏᴠɪᴇᴢ ᴛᴏɴɪɢʜᴛ</a></u> ᴡᴇ ʙᴇʟɪᴇᴠᴇ ᴛʜᴀᴛ ᴇɴᴛᴇʀᴛᴀɪɴᴍᴇɴᴛ sʜᴏᴜʟᴅ ʙᴇ ғʀᴇᴇ ᴀɴᴅ ᴇᴠᴇʀʏᴏɴᴇ ᴅᴇsᴇʀᴠᴇs ᴛʜᴇ ʀɪɢʜᴛ ᴛᴏ ᴡᴀᴛᴄʜ ʟᴀᴛᴇsᴛ ᴍᴏᴠɪᴇs/sᴇʀɪᴇs ᴀɴᴅ ʙɪɴɢᴇ ғʀᴇᴇ ᴏғ ᴄᴏsᴛ sᴇᴀᴍʟᴇssʟʏ ᴀɴᴅ ᴡɪᴛʜ ϙᴜᴀʟɪᴛʏ !! sᴏ ᴡᴇ ʜᴀᴠᴇ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ᴀᴅᴠᴀɴᴄᴇᴅ "ʀᴇғᴇʀ & ᴇᴀʀɴ" sʏsᴛᴇᴍ ɪɴ ᴏᴜʀ ʙᴏᴛ ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴛᴏ ɢᴇᴛ ᴘʀᴇᴍɪᴜᴍ, ᴄᴏᴍᴘʟᴇᴛᴇʟʏ ғʀᴇᴇ ᴏғ ᴄᴏsᴛ. sᴀʏ ʙʏʏ ᴛᴏ ᴇxᴘᴇɴsɪᴠᴇ sᴜʙsᴄʀɪᴘᴛɪᴏɴs ᴏғ ɴᴇᴛғʟɪx
+➥ <u>ʜᴇʀᴇ, ᴏɴ <a href=t.me/movieriqvestatoz>ᴍᴏᴠɪᴇᴢ ᴛᴏɴɪɢʜᴛ</a></u> ᴡᴇ ʙᴇʟɪᴇᴠᴇ ᴛʜᴀᴛ ᴇɴᴛᴇʀᴛᴀɪɴᴍᴇɴᴛ sʜᴏᴜʟᴅ ʙᴇ ғʀᴇᴇ ᴀɴᴅ ᴇᴠᴇʀʏᴏɴᴇ ᴅᴇsᴇʀᴠᴇs ᴛʜᴇ ʀɪɢʜᴛ ᴛᴏ ᴡᴀᴛᴄʜ ʟᴀᴛᴇsᴛ ᴍᴏᴠɪᴇs/sᴇʀɪᴇs ᴀɴᴅ ʙɪɴɢᴇ ғʀᴇᴇ ᴏғ ᴄᴏsᴛ sᴇᴀᴍʟᴇssʟʏ ᴀɴᴅ ᴡɪᴛʜ ϙᴜᴀʟɪᴛʏ !! sᴏ ᴡᴇ ʜᴀᴠᴇ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ᴀᴅᴠᴀɴᴄᴇᴅ "ʀᴇғᴇʀ & ᴇᴀʀɴ" sʏsᴛᴇᴍ ɪɴ ᴏᴜʀ ʙᴏᴛ ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴛᴏ ɢᴇᴛ ᴘʀᴇᴍɪᴜᴍ, ᴄᴏᴍᴘʟᴇᴛᴇʟʏ ғʀᴇᴇ ᴏғ ᴄᴏsᴛ. sᴀʏ ʙʏʏ ᴛᴏ ᴇxᴘᴇɴsɪᴠᴇ sᴜʙsᴄʀɪᴘᴛɪᴏɴs ᴏғ ɴᴇᴛғʟɪx
 
 ➥ ᴊᴜsᴛ sᴇɴᴅ /refer ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs ᴀɴᴅ ʏᴏᴜʀ sᴘᴇᴄɪᴀʟ ʀᴇғᴇʀ ʟɪɴᴋ ғʀᴏᴍ ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ ɪɴᴠɪᴛᴇ ʏᴏᴜʀ ғʀɪᴇɴᴅs ᴀɴᴅ ᴇᴀʀɴ ᴄᴏɪɴs, ᴀɴᴅ ᴏɴ 10 sᴜᴄᴄᴇssғᴜʟ ʀᴇғᴇʀs (i.e. 100 ᴘᴏɪɴs), ʏᴏᴜ ᴄᴀɴ ʀᴇᴅᴇᴇᴍ ʏᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ғᴏʀ ᴀ ᴍᴏɴᴛʜ.</b>"""
 
@@ -207,15 +207,15 @@ class script(object):
 • /disconnect  - <code>ᴅɪꜱᴄᴏɴɴᴇᴄᴛ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ</code>
 • /connections - <code>ʟɪꜱᴛ ᴀʟʟ ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</code>"""
 
-    CHANNELS_MODULE_TXT = """<b>🎯✨ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ 𝙈ᴏᴠɪᴇ𝙕 𝙐ɴɪᴠᴇʀꜱᴇ ᴏғғɪᴄɪᴀʟ❣
+    CHANNELS_MODULE_TXT = """<b>🎯✨ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ 𝙈ᴏᴠɪᴇ𝙕 world❣
 
 ⚡️🍬ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟꜱ 🦋✨
 
-<a href=https://t.me/RenierbWorldz>🔰✥ ▷ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ◁</a>
+<a href=https://t.me/iPapkornbetabots>🔰✥ ▷ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ◁</a>
 
-<a href=https://t.me/MovieZxWorld>🔰✥ ▷𝙈ᴏᴠɪᴇ𝙕 𝙐ɴɪᴠᴇʀꜱᴇ◁</a>
+<a href=https://t.me/faheemkhatri7861>🔰✥ ▷packup channel◁</a>
 
-<a href=https://t.me/MovieZTonight>🔰✥ ▷ ᴍᴏᴠɪᴇ ʀᴇ𝚀ᴜᴇꜱᴛ ɢʀᴏᴜᴩ ◁</a>
+<a href=https://t.me/faheem786786>🔰✥ ▷ ᴍᴏᴠɪᴇ update channel◁</a>
 
 🦋 ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href=tg://settings>ᴛʜɪs ᴘᴇʀsᴏɴ 🙌</a></b>"""
 
@@ -349,9 +349,9 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>‼️ <a href="https://t.me/MovieZxWorld">{file_name}</a>
+    CAPTION = """<b>‼️ <a href="https://t.me/iPapkornbetabots">{file_name}</a>
 
-© <a href="https://t.me/MovieZxWorld">𝙈ᴏᴠɪᴇ𝙕 𝙐ɴɪᴠᴇʀꜱᴇ™</a></b>""" 
+© <a href="https://t.me/iPapkornbetabots">𝙈ᴏᴠɪᴇ𝙕 world™</a></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>🎬 ᴛɪᴛʟᴇ : <a href={url}>{title}</a>
@@ -362,7 +362,7 @@ Nᴀᴍᴇ - {}"""
 
 📝 ʀᴇϙᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}
 
-⚜️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="t.me/MovieZxWorld">𝙈ᴏᴠɪᴇ𝙕 𝙐ɴɪᴠᴇʀꜱᴇ</a></b>"""
+⚜️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="t.me/iPapkornbetabots">𝙈ᴏᴠɪᴇ𝙕 world</a></b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
